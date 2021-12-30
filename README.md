@@ -1,4 +1,4 @@
-# javascript-for-frontend-developer
+# Things you should know for Frontend Developer
 
 1. Accessing DOM elements, values, text
 2. Manipulating DOM
@@ -20,3 +20,9 @@
 18. Lazy loading
 19. Playing Audio/Video
 20. Other new components
+
+# Concepts
+
+Throttle: the original function be called at most once per specified period. Ignores the event triggered during the specified time. eg.Disabling the save button.
+Debounce: the original function be called after the caller stops calling the decorated function after a specified period. 
+Window resize, search box are examples of Debounce.
