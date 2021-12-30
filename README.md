@@ -23,6 +23,5 @@
 
 # Concepts
 
-## Throttle: the original function be called at most once per specified period. Ignores the event triggered during the specified time. eg.Disabling the save button.
-## Debounce: the original function be called after the caller stops calling the decorated function after a specified period. 
-Window resize, search box are examples of Debounce.
+  * Throttle: the original function be called at most once per specified period. Ignores the event triggered during the specified time. eg.Disabling the save button.
+  * Debounce: the original function be called after the caller stops calling the decorated function after a specified period. Window resize, search box are examples of Debounce.
